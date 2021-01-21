@@ -1,0 +1,9 @@
+setup.txt
+navigation.txt
+editing.txt
+copy_paste.txt
+history.txt
+redirection_and_pipes.txt
+looping.txt
+sed.txt
+grep.txt
