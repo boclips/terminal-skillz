@@ -1,0 +1,5 @@
+# Cut + paste
+
+## Delete words, then paste them.
+
+C-w or M-d then C-y

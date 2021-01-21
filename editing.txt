@@ -1,0 +1,17 @@
+# Editing
+
+## Delete word in front
+
+M-d
+
+## Delete word behind
+
+C-w
+
+## Delete to end of line
+
+C-e
+
+## Undo
+
+C-/
