@@ -1,0 +1,13 @@
+# Grep
+
+## Filter results
+
+ls | grep nav
+
+## Takes a regexp
+
+ls | grep n.v
+
+## Can be case insensitive
+
+ls | grep -i N.V
