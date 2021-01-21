@@ -1,3 +1,18 @@
+# Navigation
+
+## Tab complete
+
+Get in the habit of hitting tab after everything.
+
+You can avoid changing directory, ls-ing etc by getting good at tab completion.
+
+e.g.
+
+./<tab> # similar to ls -a
+../../videos/video-service/<tab> # similar to cd then ls
+
+Hammer that tab key to get rapid feedback!
+
 ## Move back / forward characters
 
 C-b / C-f

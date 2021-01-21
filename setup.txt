@@ -15,6 +15,10 @@ more that don't work on the terminal.
 You can put the terminal into Vi mode, but it's a nightmare
 IMO.
 
+## Feedback
+
+Visual feedback is important - learning to touch type can really help.
+
 ## Watch out!
 
 These keys are close to common bindings: C-s (freeze) and C-q
