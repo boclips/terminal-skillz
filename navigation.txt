@@ -1,24 +1,3 @@
-# Setup
-
-Ensure your iTerm is set up to use opt as meta (M), instead of / as well as Esc.
-
-Learn your iTerm commands for splitting horizontally and vertically!
-
-These are Cmd-d and Cmd-Shift-d by default.
-
-## Note
-
-These are all Emacs shortcuts. If you learn Emacs, you'll learn
-these and some more that don't work on the terminal.
-
-You can put the terminal into Vi mode, but it's a nightmare
-IMO.
-
-## Watch out!
-
-These keys are close to common bindings: C-s (freeze) and C-q
-(unfreeze) the terminal.
-
 ## Move back / forward characters
 
 C-b / C-f
@@ -34,3 +13,20 @@ C-a
 ## Move to end of line
 
 C-e
+
+## Change directory
+
+cd some/dir
+
+## Change back to previous directory
+
+cd -
+(see also: git checkout -)
+
+## Push a directory onto the stack
+
+pushd some/dir
+
+## Pop from the stack
+
+popd

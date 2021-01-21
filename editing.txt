@@ -1,5 +1,9 @@
 # Editing
 
+## Delete character in front
+
+C-d
+
 ## Delete word in front
 
 M-d
