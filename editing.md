@@ -14,7 +14,7 @@ C-w
 
 ## Delete to end of line
 
-C-e
+C-k
 
 ## Undo
 
