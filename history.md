@@ -12,7 +12,9 @@ Press C-s to cycle forwards (assuming stty -ixon)
 
 ## Repeat last command
 
+```shell
 !!
+```
 
 ## Paste last argument
 
@@ -20,5 +22,7 @@ M-.
 
 e.g.
 
+```shell
 echo hi > you.txt
 cat <M-.>
+```

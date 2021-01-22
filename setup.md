@@ -26,6 +26,8 @@ These keys are close to common bindings: C-s (freeze) and C-q
 
 To turn these off:
 
+```shell
 stty -ixon
+```
 
 (I've added this to infra)

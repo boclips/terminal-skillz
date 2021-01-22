@@ -8,8 +8,10 @@ You can avoid changing directory, ls-ing etc by getting good at tab completion.
 
 e.g.
 
+```shell
 ./<tab> # similar to ls -a
 ../../videos/video-service/<tab> # similar to cd then ls
+```
 
 Hammer that tab key to get rapid feedback!
 
@@ -31,17 +33,25 @@ C-e
 
 ## Change directory
 
+```shell
 cd some/dir
+```
 
 ## Change back to previous directory
 
+```shell
 cd -
-(see also: git checkout -)
+```
+(see also: `git checkout -`)
 
 ## Push a directory onto the stack
 
+```shell
 pushd some/dir
+```
 
 ## Pop from the stack
 
+```shell
 popd
+```
